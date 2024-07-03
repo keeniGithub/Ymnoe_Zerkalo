@@ -19,15 +19,3 @@
 <img src="https://cdn.discordapp.com/attachments/1184126857512243210/1210247365651472394/image.png?ex=65e9ddb1&is=65d768b1&hm=3a4a2c622e2ca55efdb2030cd445c79d28d3ca476d0248dbb895482bdbf8ff92&">
 
 <img src="https://cdn.discordapp.com/attachments/1184126857512243210/1210247366763089970/image.png?ex=65e9ddb1&is=65d768b1&hm=e1a68fa5058465766f15d18244e45442960d2a61643da523065c206aafeec2b9&">
-
-<br>
-
-<h1 align="center">Other link</h1>
-
-<div align="center">
-
-[Telegram](https://t.me/kenyka)
-|
-[YouTube](https://www.youtube.com/channel/UCM6InRH22Xno8nywrZnbhLA)
-|
-[ItzTeam](https://studio.itzteam.ru)
